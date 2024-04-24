@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcfb00d1ec56e2a46a25588c1ad25b15, type: 3}
+  m_Name: LinkItemsSO
+  m_EditorClassIdentifier: 
+  iD_Objects:
+  - key: 1
+    value: {fileID: 4946869100487659246, guid: 71d5047da6fc2ac419972fd468c8d709, type: 3}
+  - key: 2
+    value: {fileID: 6118431707102298753, guid: 0892abe3a46bfa5438b14bff0674af05, type: 3}
+  - key: 3
+    value: {fileID: 8305540687268446144, guid: 08f197155439fa6439aff813a983ed60, type: 3}
+  - key: 4
+    value: {fileID: 5542801269255126258, guid: af21ed3afc0854d42b3422f8ea1b818b, type: 3}
+  - key: 5
+    value: {fileID: 7262786418909564229, guid: 1f893fa5e51a2524eb00b08f2291ae39, type: 3}
+  - key: 6
+    value: {fileID: 8635525097284870597, guid: dfca96c9021b81e4ea999b300ee35a91, type: 3}
+  - key: 7
+    value: {fileID: 8555688918083359332, guid: 3ffc46f3da75ec94892f119bd91bfe05, type: 3}
+  - key: 8
+    value: {fileID: 9199205618411257486, guid: a6e22381e463b4b4caabf91d400513c7, type: 3}
+  - key: 9
+    value: {fileID: 76416203694409732, guid: 5603f877f3199154f893b48ae8e15f45, type: 3}
+  - key: 10
+    value: {fileID: 920810235848794768, guid: e1407754be1e9da44a623a82067651de, type: 3}
+  - key: 11
+    value: {fileID: 3761383358869144213, guid: 6970fdbd1f2dcbe45b2ec75b8d6565fb, type: 3}
+  - key: 12
+    value: {fileID: 5310488648752094052, guid: fb5e639ad9000624687404f333e96e5f, type: 3}
+  - key: 13
+    value: {fileID: 2657839942954523708, guid: f7b10f438bd73234da362885b57b64f7, type: 3}
+  - key: 14
+    value: {fileID: 4217884432024720966, guid: 068dd1c6f542f5647b61fc095cde6f74, type: 3}
+  - key: 15
+    value: {fileID: 5433439197927628845, guid: e752110f607f6414e97d5885728a061d, type: 3}
+  - key: 16
+    value: {fileID: 2330039043959838163, guid: e221a5affffe7524bacb061d902099e0, type: 3}
+  - key: 17
+    value: {fileID: 4427153481462870057, guid: 2f9552758918c3245892ee5268da368c, type: 3}
+  - key: 18
+    value: {fileID: 2606224881896227134, guid: 18fe8cdc073c80c45b4861f085947fff, type: 3}
+  - key: 19
+    value: {fileID: 2431565708216115975, guid: ff3279f202924664085e73f4740d5d20, type: 3}
+  - key: 20
+    value: {fileID: 2744539200057851076, guid: a97d90bf782d88947bd41070bab53faa, type: 3}

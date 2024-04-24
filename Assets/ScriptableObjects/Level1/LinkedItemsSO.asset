@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e2923ebe90e19241b9840381679612b, type: 3}
+  m_Name: LinkedItemsSO
+  m_EditorClassIdentifier: 
+  linkedPairs:
+  - object1: 1
+    object2: 2
+  - object1: 3
+    object2: 4
+  - object1: 5
+    object2: 6
+  - object1: 7
+    object2: 8
+  - object1: 9
+    object2: 10
+  - object1: 11
+    object2: 12
+  - object1: 13
+    object2: 14
+  - object1: 15
+    object2: 16
+  - object1: 17
+    object2: 18
+  - object1: 19
+    object2: 20

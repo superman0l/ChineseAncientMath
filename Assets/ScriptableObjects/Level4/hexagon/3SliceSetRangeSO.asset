@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa514c45d010e2c488f86fcfd28e15bd, type: 3}
+  m_Name: 3SliceSetRangeSO
+  m_EditorClassIdentifier: 
+  id: 3
+  checkRange: 0.7
+  pitPos:
+  - {x: -0.89489293, y: 1.55}
+  - {x: -1.7897859, y: -0.00000012136505}
+  - {x: -0.8948928, y: -1.5500001}
+  - {x: 0.89489305, y: -1.5499998}
+  - {x: 1.7897857, y: 0.00000021375223}
+  - {x: 0.894893, y: 1.5499998}
+  angleNumPerPos: 3
+  angleNum: 6
+  angle: 88ffffff00000000780000002c0100003c000000b4000000
+  startIndex: 00000000010000000200000004000000050000000600000008000000090000000a0000000c0000000d0000000e000000100000001100000012000000140000001500000016000000
+  indexNum: 18
+  coverRange: 000000000200000000000000010000000000000001000000000000000200000000000000010000000000000001000000
+  rangeNum: 6
+  rangeSize: 2

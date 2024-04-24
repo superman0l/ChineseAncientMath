@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 533c6cba829adc6409af2b64f904176f, type: 3}
+  m_Name: FixedFieldItemSO
+  m_EditorClassIdentifier: 
+  FixedItems:
+  - requiredNum: 6
+    pos: {x: 0, y: 0}
+    isCorrect: 0
+    target: {x: 0, y: 0}
+    finalTarget: {x: 2, y: 1}
+    sprite: {fileID: -1743626259, guid: 1624128dbb4cba145a3cff3b2eda6a23, type: 3}
+  - requiredNum: 4
+    pos: {x: 0, y: 5}
+    isCorrect: 0
+    target: {x: 0, y: 5}
+    finalTarget: {x: 0, y: 2}
+    sprite: {fileID: 1130491173, guid: 1624128dbb4cba145a3cff3b2eda6a23, type: 3}
+  - requiredNum: 4
+    pos: {x: 2, y: 3}
+    isCorrect: 0
+    target: {x: 2, y: 3}
+    finalTarget: {x: 1, y: 2}
+    sprite: {fileID: 1208615859, guid: 1624128dbb4cba145a3cff3b2eda6a23, type: 3}
+  - requiredNum: 2
+    pos: {x: 4, y: 3}
+    isCorrect: 0
+    target: {x: 4, y: 3}
+    finalTarget: {x: 3, y: 3}
+    sprite: {fileID: -17431833, guid: 1624128dbb4cba145a3cff3b2eda6a23, type: 3}
+  - requiredNum: 8
+    pos: {x: 4, y: 5}
+    isCorrect: 0
+    target: {x: 4, y: 5}
+    finalTarget: {x: 1, y: 4}
+    sprite: {fileID: 1686337085, guid: 1624128dbb4cba145a3cff3b2eda6a23, type: 3}
+  - requiredNum: 2
+    pos: {x: 5, y: 4}
+    isCorrect: 0
+    target: {x: 5, y: 4}
+    finalTarget: {x: 5, y: 3}
+    sprite: {fileID: -1237118803, guid: 1624128dbb4cba145a3cff3b2eda6a23, type: 3}
+  - requiredNum: 12
+    pos: {x: 6, y: 0}
+    isCorrect: 0
+    target: {x: 6, y: 0}
+    finalTarget: {x: 3, y: 2}
+    sprite: {fileID: -17431833, guid: 1624128dbb4cba145a3cff3b2eda6a23, type: 3}
+  - requiredNum: 3
+    pos: {x: 7, y: 0}
+    isCorrect: 0
+    target: {x: 7, y: 0}
+    finalTarget: {x: 7, y: 2}
+    sprite: {fileID: 1130491173, guid: 1624128dbb4cba145a3cff3b2eda6a23, type: 3}
+  - requiredNum: 4
+    pos: {x: 7, y: 3}
+    isCorrect: 0
+    target: {x: 7, y: 3}
+    finalTarget: {x: 6, y: 4}
+    sprite: {fileID: -1743626259, guid: 1624128dbb4cba145a3cff3b2eda6a23, type: 3}
+  - requiredNum: 3
+    pos: {x: 7, y: 5}
+    isCorrect: 0
+    target: {x: 7, y: 5}
+    finalTarget: {x: 5, y: 5}
+    sprite: {fileID: 1686337085, guid: 1624128dbb4cba145a3cff3b2eda6a23, type: 3}
+  - requiredNum: 10
+    pos: {x: 8, y: 4}
+    isCorrect: 0
+    target: {x: 8, y: 4}
+    finalTarget: {x: 9, y: 0}
+    sprite: {fileID: -17431833, guid: 1624128dbb4cba145a3cff3b2eda6a23, type: 3}
+  - requiredNum: 2
+    pos: {x: 8, y: 5}
+    isCorrect: 0
+    target: {x: 8, y: 5}
+    finalTarget: {x: 9, y: 5}
+    sprite: {fileID: -1237118803, guid: 1624128dbb4cba145a3cff3b2eda6a23, type: 3}
+  - requiredNum: 6
+    pos: {x: 10, y: 5}
+    isCorrect: 0
+    target: {x: 10, y: 5}
+    finalTarget: {x: 10, y: 0}
+    sprite: {fileID: -1743626259, guid: 1624128dbb4cba145a3cff3b2eda6a23, type: 3}

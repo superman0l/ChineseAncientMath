@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e951e21f04bdaeb47a16bd8d765a0ac6, type: 3}
+  m_Name: AbacusMap
+  m_EditorClassIdentifier: 
+  pairs:
+  - num: 0
+    balls: 000000000100000002000000030000000a000000
+  - num: 1
+    balls: 000000000100000002000000060000000a000000
+  - num: 2
+    balls: 000000000100000005000000060000000a000000
+  - num: 3
+    balls: 000000000400000005000000060000000a000000
+  - num: 4
+    balls: 030000000400000005000000060000000a000000
+  - num: 5
+    balls: 0000000001000000020000000300000008000000
+  - num: 6
+    balls: 0000000001000000020000000600000008000000
+  - num: 7
+    balls: 0000000001000000050000000600000008000000
+  - num: 8
+    balls: 0000000004000000050000000600000008000000
+  - num: 9
+    balls: 0300000004000000050000000600000008000000
